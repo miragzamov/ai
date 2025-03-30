@@ -29,7 +29,7 @@ Rename the example environment file:
 ```sh
 mv .env.example .env
 ```
-Then, open `.env` and add your [**Gemini API key**](https://aistudio.google.com/).  
+Then, open `.env` and add your [**Gemini API key**](https://aistudio.google.com/apikey).  
 
 ### 5. Start the Application  
 ```sh
