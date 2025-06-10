@@ -35,6 +35,7 @@ Then, open `.env` and add your [**Gemini API key**](https://aistudio.google.com/
 ```sh
 node index.js
 ```
+The script will then prompt you to enter your question.
 
 ## Contributing  
 Feel free to submit pull requests or open issues for improvements.  
